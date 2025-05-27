@@ -1,0 +1,21 @@
+h1{
+    font-weight: 200px;
+    text-align:  center;
+    color: brown;
+}
+p{
+    text-align: center;
+    color: green;
+}
+button{
+    color: brown;
+}
+form{
+    text-align: center;
+    height: 100px;
+    
+}
+body{
+    background-color: burlywood;
+    
+}

@@ -1,0 +1,24 @@
+#parent{
+    height: 100px;
+    width:100px;
+    border: 2px;
+}
+#one{
+    height:50px;
+    width: 50px;
+    color: blue;
+
+}
+#two{
+    height:50px;
+    width: 50px;
+    color: red;
+}
+#three{
+    height:50px;
+    width: 50px;
+    color: black;
+}
+#parent:hover.one{
+    margin-left: ;
+}

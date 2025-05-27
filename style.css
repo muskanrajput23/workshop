@@ -1,0 +1,48 @@
+
+
+table{
+    border: 2px solid black;
+    background-color:burlywood;
+    height: 200px;
+    
+      
+    
+}
+td{
+    border: 1px solid black;
+    color:blue;
+    width: 100px;
+    height: 50px;
+    
+}
+th{
+    border: 1px solid black;
+    width: 100px;
+    height: 50px;
+
+}
+caption{
+    font-style:italic;
+    font-size: medium;
+    color:white;
+    font-weight: bolder;
+    
+}
+.name{
+    color: brown;
+}
+body{
+    background-image:url("classroom.jpg") ;
+    height:50px;
+    width:100%;
+    background-size: cover;
+    
+    
+    
+        
+}
+div{
+    height: 100px;
+    width:100px;
+    background-color: brown;
+}
